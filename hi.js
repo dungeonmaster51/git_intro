@@ -1,1 +1,3 @@
-console.log('hello world')
+function sayhi(name){
+console.log('hello '+name)}
+sayhi('sanchit')
