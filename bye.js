@@ -1,1 +1,3 @@
-console.log('Bye World')
+console.log('Hi world')
+
+/* smile and live, be wholesome :) */ 
